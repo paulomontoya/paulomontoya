@@ -7,7 +7,7 @@
 
 Hello there 👋 🇧🇷 🇨🇱
 
-I’m Paulo Montoya, a brazilian senior full-stack engineer living in Chile.
+I'm Paulo Montoya, a brazilian senior full stack engineer living in Chile.
 
 Started to work as a front end in 2010. Always loved to code and learn about tech stuff.
 
