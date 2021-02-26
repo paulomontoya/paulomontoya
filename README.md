@@ -27,6 +27,7 @@ Want to know more about me? [Check out my LinkedIn.](https://www.linkedin.com/in
 
 ![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=React&logoColor=white&color=025a75)
 ![](https://img.shields.io/badge/Library-Redux-informational?style=flat&logo=Redux&logoColor=white&color=025a75)
+![](https://img.shields.io/badge/Library-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=025a75)
 ![](https://img.shields.io/badge/Runtime-Node-informational?style=flat&logo=node.js&logoColor=white&color=025a75)
 ![](https://img.shields.io/badge/Library-Express-informational?style=flat&logo=Express&logoColor=white&color=025a75)
 ![](https://img.shields.io/badge/Library-Ruby%20on%20Rails-informational?style=flat&logo=Ruby-on-rails&logoColor=white&color=025a75)
