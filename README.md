@@ -25,6 +25,10 @@ Want to know more about me? [Check out my LinkedIn.](https://www.linkedin.com/in
 ![](https://img.shields.io/badge/SQL-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=025a75)
 ![](https://img.shields.io/badge/NoSQL-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=025a75)
 
+![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=025a75)
+![](https://img.shields.io/badge/Test-MochaJs-informational?style=flat&logo=mocha&logoColor=white&color=025a75)
+![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=cypress&logoColor=white&color=025a75)
+
 ![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=React&logoColor=white&color=025a75)
 ![](https://img.shields.io/badge/Library-Redux-informational?style=flat&logo=Redux&logoColor=white&color=025a75)
 ![](https://img.shields.io/badge/Library-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=025a75)
